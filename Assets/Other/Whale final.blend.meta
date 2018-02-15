@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 35626557902e31846a6177b8fbb3e66b
+timeCreated: 1513176369
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: baleine
+    100004: baleine_MeshPart0
+    100006: baleine_MeshPart1
+    100008: baleine_MeshPart2
+    100010: bolla_aria
+    100012: coda
+    100014: coda_L
+    100016: coda_mid_L
+    100018: coda_mid_R
+    100020: coda_punta_L
+    100022: coda_punta_R
+    100024: coda_R
+    100026: dorso_1
+    100028: dorso_2
+    100030: dorso_3
+    100032: dorso_4
+    100034: driver_palpebre_L
+    100036: driver_palpebre_R
+    100038: Empty_guida
+    100040: fanoni
+    100042: lookat_L
+    100044: lookat_R
+    100046: mandibola
+    100048: mesh_deform
+    100050: occhio_L
+    100052: occhio_L_0
+    100054: occhio_R
+    100056: occhio_R_0
+    100058: pinna_Av_L
+    100060: pinna_Av_R
+    100062: shape_coda_L
+    100064: shape_coda_R
+    100066: shape_lookat
+    100068: shape_mandibola
+    100070: shape_occhio_L
+    100072: shape_pinna_L
+    100074: shape_pinna_R
+    100076: shape_schiena
+    100078: soffione
+    100080: Sphere
+    100082: testa
+    100084: //RootNode
+    400000: Armature
+    400002: baleine
+    400004: baleine_MeshPart0
+    400006: baleine_MeshPart1
+    400008: baleine_MeshPart2
+    400010: bolla_aria
+    400012: coda
+    400014: coda_L
+    400016: coda_mid_L
+    400018: coda_mid_R
+    400020: coda_punta_L
+    400022: coda_punta_R
+    400024: coda_R
+    400026: dorso_1
+    400028: dorso_2
+    400030: dorso_3
+    400032: dorso_4
+    400034: driver_palpebre_L
+    400036: driver_palpebre_R
+    400038: Empty_guida
+    400040: fanoni
+    400042: lookat_L
+    400044: lookat_R
+    400046: mandibola
+    400048: mesh_deform
+    400050: occhio_L
+    400052: occhio_L_0
+    400054: occhio_R
+    400056: occhio_R_0
+    400058: pinna_Av_L
+    400060: pinna_Av_R
+    400062: shape_coda_L
+    400064: shape_coda_R
+    400066: shape_lookat
+    400068: shape_mandibola
+    400070: shape_occhio_L
+    400072: shape_pinna_L
+    400074: shape_pinna_R
+    400076: shape_schiena
+    400078: soffione
+    400080: Sphere
+    400082: testa
+    400084: //RootNode
+    2300000: baleine_MeshPart0
+    2300002: baleine_MeshPart1
+    2300004: baleine_MeshPart2
+    2300006: bolla_aria
+    2300008: fanoni
+    2300010: occhio_L
+    2300012: occhio_R
+    2300014: shape_coda_L
+    2300016: shape_coda_R
+    2300018: shape_lookat
+    2300020: shape_mandibola
+    2300022: shape_occhio_L
+    2300024: shape_pinna_L
+    2300026: shape_pinna_R
+    2300028: shape_schiena
+    2300030: soffione
+    2300032: Sphere
+    3300000: baleine_MeshPart0
+    3300002: baleine_MeshPart1
+    3300004: baleine_MeshPart2
+    3300006: bolla_aria
+    3300008: fanoni
+    3300010: occhio_L
+    3300012: occhio_R
+    3300014: shape_coda_L
+    3300016: shape_coda_R
+    3300018: shape_lookat
+    3300020: shape_mandibola
+    3300022: shape_occhio_L
+    3300024: shape_pinna_L
+    3300026: shape_pinna_R
+    3300028: shape_schiena
+    3300030: soffione
+    3300032: Sphere
+    4300000: shape_mandibola
+    4300002: shape_coda_R
+    4300004: shape_coda_L
+    4300006: shape_schiena
+    4300008: shape_lookat
+    4300010: shape_pinna_L
+    4300012: shape_occhio_L
+    4300014: shape_pinna_R
+    4300016: Sphere
+    4300018: occhio_R
+    4300020: occhio_L
+    4300022: mesh_deform
+    4300024: bolla_aria
+    4300026: baleine_MeshPart0
+    4300028: baleine_MeshPart1
+    4300030: baleine_MeshPart2
+    4300032: soffione
+    4300034: fanoni
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: mesh_deform
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

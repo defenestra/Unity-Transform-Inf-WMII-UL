@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5322D22C-E940-A952-A7AE-C89750521FCD}") = "O_Obrotach_Cial_Niebieskich", "Assembly-CSharp.csproj", "{80E1E841-220F-86DA-691C-DA7C53B6A6C5}"
+EndProject
+Project("{5322D22C-E940-A952-A7AE-C89750521FCD}") = "O_Obrotach_Cial_Niebieskich", "Assembly-CSharp-Editor.csproj", "{97AC9714-689E-FE8B-EF78-69B60ECE1E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E1E841-220F-86DA-691C-DA7C53B6A6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E1E841-220F-86DA-691C-DA7C53B6A6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E1E841-220F-86DA-691C-DA7C53B6A6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E1E841-220F-86DA-691C-DA7C53B6A6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97AC9714-689E-FE8B-EF78-69B60ECE1E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AC9714-689E-FE8B-EF78-69B60ECE1E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AC9714-689E-FE8B-EF78-69B60ECE1E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AC9714-689E-FE8B-EF78-69B60ECE1E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
